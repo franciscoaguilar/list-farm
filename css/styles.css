@@ -1,0 +1,35 @@
+
+.plus-minus-input {
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.plus-minus-input .input-group-field {
+  text-align: center;
+  margin-left: 0.0rem;
+  margin-right: 0.0rem;
+  padding: 0rem;
+}
+
+.plus-minus-input .input-group-field::-webkit-inner-spin-button,
+.plus-minus-input .input-group-field ::-webkit-outer-spin-button {
+          margin: 0;
+          padding: 0.0rem;
+}
+
+.plus-minus-input .input-group-button .circle {
+  border-radius: 50%;
+  padding: 0.25em 0.8em;
+
+}
+
+.firstname  {
+  color: red;
+}
+.h1 {
+  background-color: red;
+}
+#loginError{
+  display: none;
+}
